@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 110.39882 46.484114"
+   viewBox="0 0 551.99412 232.42056"
    version="1.1"
    id="svg1795"
-   sodipodi:docname="mofa-header_full-color.svg"
+   sodipodi:docname="defense-full-color.svg"
    inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
-   width="110.39881"
-   height="46.484112"
+   width="551.99408"
+   height="232.42055"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="5.2519908"
-     inkscape:cx="46.363371"
-     inkscape:cy="11.424239"
+     inkscape:zoom="1.5596513"
+     inkscape:cx="218.31803"
+     inkscape:cy="126.31028"
      inkscape:current-layer="Layer_2"
      inkscape:snap-nodes="false"
      inkscape:snap-others="false"
@@ -44,48 +44,52 @@
   <g
      id="Layer_2"
      data-name="Layer 2"
-     transform="translate(-25.37559,-21.177491)">
+     transform="translate(-25.375591,-21.177492)">
     <text
        class="cls-1"
        id="text1729"
-       y="52.110001"
-       x="25.20759">MINIST<tspan
+       y="175.84004"
+       x="24.535591"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:60px;font-family:Semplicità;-inkscape-font-specification:'Semplicità, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#019aed;stroke-width:1">MINIST<tspan
    class="cls-2"
-   x="60.207588"
-   y="52.110001"
-   id="tspan1717">RY OF DEFENSE</tspan></text>
+   x="199.53558"
+   y="175.84004"
+   id="tspan1717"
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:60px;font-family:Semplicità;-inkscape-font-specification:'Semplicità, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.2">RY OF DEFENSE</tspan></text>
     <text
        class="cls-6"
        id="text1737"
-       x="44.81546"
-       y="67.510002"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.58px;font-family:Semplicità;-inkscape-font-specification:'Semplicità, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#019aed"><tspan
+       x="122.57494"
+       y="252.84004"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:37.9px;font-family:Semplicità;-inkscape-font-specification:'Semplicità, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#019aed;stroke-width:1"><tspan
          sodipodi:role="line"
          id="tspan7648"
-         x="44.81546"
-         y="67.510002">OF THE SOUTH PACIFIC</tspan></text>
+         x="122.57494"
+         y="252.84004"
+         style="stroke-width:1">OF THE SOUTH PACIFIC</tspan></text>
     <g
        id="g1102"
-       transform="matrix(1.2687116,0,0,1.2687116,-36.103004,-0.13749659)"
-       style="stroke-width:0.788201">
+       transform="matrix(6.343558,0,0,6.343558,-282.01738,-85.397448)"
+       style="stroke-width:0.15764">
       <path
          class="cls-1"
          d="m 91.965038,17.550499 a 6.3,6.3 0 1 1 -6.3,6.3 6.3,6.3 0 0 1 6.3,-6.3 m 0,-0.75 a 7,7 0 1 0 7,7.05 7.05,7.05 0 0 0 -7,-7 z"
          id="path826"
-         style="fill:#ff9900;stroke-width:0.788201" />
+         style="fill:#ff9900;stroke-width:0.15764" />
       <path
          class="cls-4"
          d="m 96.445038,28.260499 a 6.29,6.29 0 1 0 -10.78,-4.41 6.21,6.21 0 0 0 1.82,4.41 v 0 0 a 6.3,6.3 0 0 0 8.92,0 v 0 z m -4.48,-9.33 a 4.91,4.91 0 0 1 3.49,8.37 0.5,0.5 0 0 1 -0.69,0 0.47,0.47 0 0 1 -0.15,-0.35 v -3.16 a 1.06,1.06 0 0 0 0.5,0.13 1.1,1.1 0 1 0 0,-2.2 1.88,1.88 0 0 0 -1.87,1.88 v 3.34 a 1.86,1.86 0 0 0 0.55,1.33 l 0.11,0.09 a 4.38,4.38 0 0 1 -1.25,0.35 v -6.67 a 1.38,1.38 0 1 0 -1.38,0 v 6.67 a 4.54,4.54 0 0 1 -1.26,-0.35 l 0.12,-0.09 a 1.9,1.9 0 0 0 0.55,-1.33 v -3.34 a 1.88,1.88 0 0 0 -1.88,-1.88 1.1,1.1 0 1 0 0,2.2 1.06,1.06 0 0 0 0.5,-0.13 v 3.15 a 0.5,0.5 0 0 1 -0.84,0.36 4.91,4.91 0 0 1 3.5,-8.37 z"
          id="path836"
-         style="fill:#019aed;stroke-width:0.788201" />
+         style="fill:#019aed;stroke-width:0.15764" />
     </g>
     <rect
        class="cls-9"
-       x="40.990002"
-       y="56.790001"
-       width="79.160004"
-       height="0.75"
-       id="rect1739" />
+       x="103.44765"
+       y="199.24004"
+       width="395.80002"
+       height="3.75"
+       id="rect1739"
+       style="stroke-width:1" />
   </g>
   <metadata
      id="metadata1799">
