@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 692.02378 87.350002"
+   viewBox="0 0 1384.0476 174.7"
    version="1.1"
    id="svg25"
    sodipodi:docname="defense-line-white-blue.svg"
    inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
-   width="692.0238"
-   height="87.349998"
+   width="1384.0476"
+   height="174.7"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,10 +20,14 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="2.0062259"
-     inkscape:cx="88.973032"
-     inkscape:cy="69.284322"
-     inkscape:current-layer="svg25" />
+     inkscape:zoom="0.65715397"
+     inkscape:cx="239.66986"
+     inkscape:cy="13.695421"
+     inkscape:current-layer="svg25"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs9">
     <style
@@ -31,28 +35,28 @@
   </defs>
   <g
      id="g918"
-     transform="matrix(5,0,0,5,2.1313874e-6,0)"
-     style="stroke-width:0.2">
+     transform="matrix(10,0,0,10,4.2627748e-6,0)"
+     style="stroke-width:0.1">
     <path
        class="cls-1"
        d="M 6.9998214,2.44 A 6.3,6.3 0 1 1 0.69982143,8.74 6.3,6.3 0 0 1 6.9998214,2.44 m 0,-0.75 a 7,7 0 1 0 6.9999996,7.05 7.05,7.05 0 0 0 -6.9999996,-7 z"
        id="path11"
-       style="fill:#109aed;fill-opacity:1;stroke-width:0.2" />
+       style="fill:#109aed;fill-opacity:1;stroke-width:0.1" />
     <text
        class="cls-2"
        id="text17"
        x="24.949821"
        y="12.64"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.2">MINIST<tspan
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.1">MINIST<tspan
    class="cls-3"
    x="59.949821"
    y="12.64"
    id="tspan13"
-   style="fill:#ffffff;fill-opacity:1;stroke-width:0.2">R</tspan><tspan
+   style="fill:#ffffff;fill-opacity:1;stroke-width:0.1">R</tspan><tspan
    x="65.629822"
    y="12.64"
    id="tspan15"
-   style="fill:#ffffff;fill-opacity:1;stroke-width:0.2">Y OF DEFENSE</tspan></text>
+   style="fill:#ffffff;fill-opacity:1;stroke-width:0.1">Y OF DEFENSE</tspan></text>
     <rect
        class="cls-1"
        x="18.989822"
@@ -60,11 +64,11 @@
        height="17.469999"
        id="rect19"
        y="0"
-       style="fill:#109aed;fill-opacity:1;stroke-width:0.2" />
+       style="fill:#109aed;fill-opacity:1;stroke-width:0.1" />
     <path
        class="cls-4"
        d="M 11.479821,13.15 A 6.29,6.29 0 1 0 0.69982143,8.74 6.21,6.21 0 0 0 2.5198214,13.15 v 0 0 a 6.3,6.3 0 0 0 8.9199996,0 v 0 z M 6.9998214,3.82 a 4.91,4.91 0 0 1 3.4899996,8.37 0.5,0.5 0 0 1 -0.6899996,0 0.47,0.47 0 0 1 -0.15,-0.35 V 8.68 a 1.06,1.06 0 0 0 0.4999996,0.13 1.1,1.1 0 1 0 0,-2.2 1.88,1.88 0 0 0 -1.8699996,1.88 v 3.34 a 1.86,1.86 0 0 0 0.55,1.33 l 0.11,0.09 a 4.38,4.38 0 0 1 -1.25,0.35 V 6.93 a 1.38,1.38 0 1 0 -1.38,0 v 6.67 a 4.54,4.54 0 0 1 -1.26,-0.35 l 0.12,-0.09 a 1.9,1.9 0 0 0 0.55,-1.33 V 8.49 a 1.88,1.88 0 0 0 -1.88,-1.88 1.1,1.1 0 1 0 0,2.2 1.06,1.06 0 0 0 0.5,-0.13 v 3.15 a 0.5,0.5 0 0 1 -0.84,0.36 4.91,4.91 0 0 1 3.5,-8.37 z"
        id="path21"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.2" />
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.1" />
   </g>
 </svg>
